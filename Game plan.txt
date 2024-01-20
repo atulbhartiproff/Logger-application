@@ -1,1 +1,9 @@
+This is the the readme file for the plan i have to develop and create the website/Application. 
+I will also update this file regarding how i will update this file and stuff.
 
+Procedure:
+1. Use Figma to create a structure for the application/website.
+2. Create a database for the app. 
+3. Tweak the front end.
+4. Create a back end for the application.
+5... Lets do it.
