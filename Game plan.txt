@@ -7,3 +7,20 @@ Procedure:
 3. Tweak the front end.
 4. Create a back end for the application.
 5... Lets do it.
+
+
+Figma Part: 
+<Lets Make the main page. We can do everything later. But lets do the main page first. Atleast we will have the Main structure for us.>
+
+Database Part:
+<Installation of SQL>
+<Create a database>
+<>
+
+Front End
+<Already done with Figma>
+<Tweaking with front end>
+
+Back End
+<C will be the main structure for back end>
+<Lets wait for everything>
