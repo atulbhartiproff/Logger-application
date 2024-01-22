@@ -3,3 +3,4 @@ Let's start this on 22 january,2024.
 
 22nd January, 2024: 
 I have decided to officially change the direction of project from application to website due to unavailablity of testing it on any hand held device.
+I have created a basic skeleton of the home page. I am out of ideas for what the 4th option in my website should be. I will leave it at as Coming soon for now.
