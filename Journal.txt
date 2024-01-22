@@ -5,3 +5,4 @@ Let's start this on 22 january,2024.
 I have decided to officially change the direction of project from application to website due to unavailablity of testing it on any hand held device.
 I have created a basic skeleton of the home page. I am out of ideas for what the 4th option in my website should be. I will leave it at as Coming soon for now.
 Added a news tab to the website. Might add only one for each category. Will look forward to it.
+I've hit a roadblock. I am not sure how to turn the figma design into a website. I will have to look into that too. Might ask people with more experience about it.
